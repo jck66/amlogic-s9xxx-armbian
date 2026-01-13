@@ -18,6 +18,7 @@ on:
         options:
           - unifreq
           - ophub
+          -jck66
       kernel_version:
         description: "Select kernel version"
         required: false
